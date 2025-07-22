@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgresql logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/RabbitMQ-Dark.svg" height="40" alt="rabbitmq logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" height="40" alt="redis logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="mongodb logo" />
@@ -38,6 +40,8 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman-Dark.svg" height="40" alt="Postman logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo" />
   <img width="12" />
