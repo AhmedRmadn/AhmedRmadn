@@ -61,16 +61,16 @@
 
 ### 📈 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-ramadan&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-ramadan&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedRmadn&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRmadn&theme=tokyonight" alt="streak" />
 </p>
 
 ---
 
 ### 🌍 Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/ahmed-ramadan" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-ramadan-248280199/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ahmed.ramadanhassan9@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <!--
