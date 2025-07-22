@@ -65,9 +65,6 @@
 <!--   <img src="https://streak-stats.demolab.com/?user=AhmedRmadn&theme=tokyonight" alt="streak" />
 </p> -->
 
----
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedRmadn)](https://git.io/streak-stats)
 
 
 ---
