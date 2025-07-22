@@ -29,7 +29,7 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dart.svg" height="40" alt="cassandra logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" height="40" alt="cassandra logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo" />
   <img width="12" />
