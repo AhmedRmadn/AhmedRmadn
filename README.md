@@ -25,13 +25,13 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" height="40" alt="redis logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB-Dark.svg" height="40" alt="mongodb logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="mongodb logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript-Dark.svg" height="40" alt="javascript logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker-Dark.svg" height="40" alt="docker logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" alt="docker logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Dark.svg" height="40" alt="git logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="github logo" />
   <img width="12" />
@@ -39,9 +39,9 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML-Dark.svg" height="40" alt="html5 logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS-Dark.svg" height="40" alt="css3 logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css3 logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="40" alt="php logo" />
   <img width="12" />
