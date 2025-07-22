@@ -62,7 +62,7 @@
 ### 📈 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedRmadn&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRamadan&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=AhmedRmadn&theme=tokyonight" alt="streak" />
 </p>
 
 ---
