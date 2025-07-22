@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Spring Boot, System Design, MongoDB, HLS Streaming, React**
 
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **[ahmed.ramadanhassan9@gmail.com]**
 
 - ⚡ Fun fact: I automate everything I can ⚙️
 
@@ -62,7 +62,7 @@
 ### 📈 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedRmadn&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://streak-stats.demolab.com/?user=AhmedRmadn&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedRmadn&theme=tokyonight" alt="streak" />
 </p>
 
 ---
