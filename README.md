@@ -41,7 +41,7 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman-Dark.svg" height="40" alt="Postman logo" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" height="40" alt="Postman logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" height="40" alt="html5 logo" />
   <img width="12" />
