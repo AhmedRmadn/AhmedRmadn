@@ -67,7 +67,8 @@
 
 ---
 
-![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedRmadn&theme=github-compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AhmedRmadn)](https://git.io/streak-stats)
+
 
 ---
 
