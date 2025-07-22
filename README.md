@@ -62,8 +62,12 @@
 ### 📈 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedRmadn&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://streak-stats.demolab.com/?user=AhmedRmadn&theme=tokyonight" alt="streak" />
-</p>
+<!--   <img src="https://streak-stats.demolab.com/?user=AhmedRmadn&theme=tokyonight" alt="streak" />
+</p> -->
+
+---
+
+![Ahmed's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedRmadn&theme=github-compact)
 
 ---
 
