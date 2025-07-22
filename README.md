@@ -14,109 +14,42 @@
 ---
 
 ### 🛠️ Languages and Tools:
-<p align="left">
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-        height="40"
-        alt="java logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
-        height="40"
-        alt="spring logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        height="40"
-        alt="mysql logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-        height="40"
-        alt="postgresql logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
-        height="40"
-        alt="redis logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-        height="40"
-        alt="mongodb logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        height="40"
-        alt="javascript logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-        height="40"
-        alt="docker logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        height="40"
-        alt="git logo"
-      />
-      <img width="12" />
-              <img
-        src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"
-        height="40"
-        alt="github logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-        height="40"
-        alt="react logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        height="40"
-        alt="nodejs logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        height="40"
-        alt="html5 logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        height="40"
-        alt="css3 logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-        height="40"
-        alt="php logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"
-        height="40"
-        alt="laravel logo"
-      />
-      <img width="12" />
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        height="40"
-        alt="python logo"
-      />
-</p>
+<div align="left">
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" alt="java logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redis-Dark.svg" height="40" alt="redis logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB-Dark.svg" height="40" alt="mongodb logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript-Dark.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker-Dark.svg" height="40" alt="docker logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git-Dark.svg" height="40" alt="git logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="github logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML-Dark.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS-Dark.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="40" alt="php logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" height="40" alt="laravel logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="python logo" />
+</div>
+
 
 ---
 
