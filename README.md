@@ -23,6 +23,8 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" height="40" alt="spring logo" />
   <img width="12" />
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" height="40" alt="postgresql logo" />
@@ -40,8 +42,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" height="40" alt="git logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" height="40" alt="github logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" height="40" alt="react logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" height="40" alt="nodejs logo" />
   <img width="12" />
