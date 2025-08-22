@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ahmed Ramadan</h1>
-<h3 align="center">Software Engineer | Backend Specialist | Lifelong Learner</h3>
-
-- 🔭 I’m currently working on **Souqly: E-commerce platform using Spring Boot & React**
+<h3 align="center">Software Engineer | Backend Specialist | Frontend Specialist |Lifelong Learner</h3>
 
 - 🌱 I’m currently learning **Socket Programming and Real-Time Web Apps**
 
-- 💬 Ask me about **Java, Spring Boot, System Design, MongoDB, HLS Streaming, React**
+- 💬 Ask me about **Java, Python , JavaScript, Spring Boot, FastAPI, React, System Design, Database Systems**
 
 - 📫 How to reach me: **[ahmed.ramadanhassan9@gmail.com]**
 
@@ -17,7 +15,13 @@
 <div align="left">
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" height="40" alt="java logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="python logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg" height="40" alt="spring logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/FastAPI.svg" height="40" alt="spring logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" height="40" alt="mysql logo" />
   <img width="12" />
@@ -30,8 +34,6 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MongoDB.svg" height="40" alt="mongodb logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Cassandra-Dark.svg" height="40" alt="cassandra logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" height="40" alt="javascript logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" height="40" alt="docker logo" />
   <img width="12" />
@@ -49,11 +51,13 @@
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" height="40" alt="css3 logo" />
   <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MaterialUI-Dark.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" height="40" alt="css3 logo" />
+  <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg" height="40" alt="php logo" />
   <img width="12" />
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" height="40" alt="laravel logo" />
-  <img width="12" />
-  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Dark.svg" height="40" alt="python logo" />
 </div>
 
 
